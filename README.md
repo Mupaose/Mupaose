@@ -1,6 +1,6 @@
 - 👋 Hi, I am Tine!
 - 
-- 👀 I’m interested in improving my skills in Power BI & SQL
+- 👀 I’m interested in improving my skills & getting new opportunities in tech.
 - 🌱 I’m currently learning Power BI & SQL
 - 🌱 My next goal is Python & Tableau
 - 💞️ I’m looking for resources to collaborate & learn on Power BI, SQL & Python
