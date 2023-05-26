@@ -1,9 +1,10 @@
 - 👋 Hi, I am Tine!
 - 
 - 👀 I’m interested in improving my skills & getting new opportunities in tech.
-- 🌱 I’m currently learning Power BI & SQL (Microsoft SQL Server, MySQL & PostgreSQL)
-- 🌱 My next goal is Python & Tableau
-- 💞️ I’m looking for resources to collaborate & learn on Power BI, SQL & Python
+- 🌱 I recently completed my Google Data Analytics Professional Certificate
+- 🌱 I’m currently learning & refining my skills in Power BI, Tableau, SQL & R
+- 🌱 My next goal is Python
+- 💞️ I’m looking for resources to collaborate & learn on Power BI, R, SQL & Python
 - 
 - 
 - 📫 I am open to learning & new ideas. Talk to me on:
