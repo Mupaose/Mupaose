@@ -2,9 +2,9 @@
 - 
 - 👀 I’m interested in improving my skills & getting new opportunities in tech.
 - 🌱 I recently completed my Google Data Analytics Professional Certificate
-- 🌱 I’m currently learning & refining my skills in Power BI, Tableau, SQL & R
+- 🌱 I’m currently learning & refining my skills in SQL, Power BI, Excel & R Programming
 - 🌱 My next goal is Python
-- 💞️ I’m looking for resources to collaborate & learn on Power BI, R, SQL & Python
+- 💞️ I’m looking for resources to collaborate & learn on Power BI, R, SQL & Excel.
 - 
 - 
 - 📫 I am open to learning & new ideas. Talk to me on:
