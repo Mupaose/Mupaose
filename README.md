@@ -1,5 +1,5 @@
 - 👋 Hi, I am Tine!
--  * I am finance and banking professional
+-  * I am a Finance and Banking professional
 - 
 - 👀 I’m interested in improving my skills & getting new opportunities in Data Analysis and Business Intelligence.
 - 🌱 I recently completed my Google Data Analytics Professional Certificate
