@@ -2,10 +2,10 @@
 -  * I am a Finance and Banking professional
 - 
 - 👀 I’m interested in improving my skills & getting new opportunities in Data Analysis and Business Intelligence.
-- 🌱 I recently completed my Google Data Analytics Professional Certificate
-- 🌱 I’m currently learning & refining my skills in SQL, Power BI & Excel
-- 🌱 My next goal is Python & R Programming.
-- 💞️ I’m looking for resources to collaborate & learn on Power BI, SQL & Excel.
+- 🌱 I recently completed my Google Data Analytics Professional Certificate & WQU Applied Data Science Lab
+- 🌱 I’m currently learning & refining my skills in SQL & Python
+- 🌱 My next goal is gaining experience
+- 💞️ I’m looking for resources to collaborate & learn on Database Management & Automation
 - 
 - 
 - 📫 I am open to learning & new ideas. Talk to me on:
